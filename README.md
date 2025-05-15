@@ -19,9 +19,9 @@ Write the C Program using Linux Process API - Shared Memory
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-DEVELOPED BY: GAUTHAM KRISHNA
+DEVELOPED BY: CHARUMATHI A
+REG.NO:212224230045
 
-REG.NO:212223240036
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
 #include <stdio.h>
